@@ -1,4 +1,4 @@
-# Lesson 06: Advanced mapping techniques with CartoDB.js
+# Advanced mapping techniques with CartoDB.js
 
 This lesson explores the JavaScript library supporting the CartoDB platform, [CartoDB.js](http://docs.cartodb.com/cartodb-platform/cartodb-js/), which expands the potential of CartoDB's web editor for creating customized web maps. The lesson introduces the [API documentation](http://docs.cartodb.com/cartodb-platform/cartodb-js/api-methods/) and demonstrates various techniques for requesting data from a personal account on CartoDB to render a map in the browser.
 
@@ -20,7 +20,7 @@ This lesson will walk us through several example scripts to get a sense of how C
 
 ## Getting started with CartoDB.js
 
-To make use of the CartoDB.js methods explored within this lesson, you'll first need a dataset and map hosted on CartoDB through your account. For my examples, I'm using a map  of uninsured US adults by county for the year 2015, created for examples used in [Module 08 of MAP671](http://newmapsplus.uky.edu/map671-module-08-integrating-qgis-cartodb).
+To make use of the CartoDB.js methods explored within this lesson, you'll first need a dataset and map hosted on CartoDB through your account. For my examples, I'm using a map  of [uninsured US adults by county for the year 2015](https://rgdonohue.cartodb.com/viz/7a678fd6-88a7-11e5-8ee8-0e674067d321/map).
 
 ![CartoDB hosted map of uninsured US adults by county for the year 2015](lesson-06-graphics/uninsured-in-cartodb-editor.png)  
 **Figure 01**. CartoDB hosted map of uninsured US adults by county for the year 2015.
